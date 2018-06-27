@@ -5,5 +5,5 @@ This repository is shared by the Codeup students in the Voyageurs cohort. Partic
 
 
 ## voyageurDictionary.md
-One resource that this will be used for is an ongoing list of vocabulary words that students can add to, both words and definitions. Go ahead and modify voyageurDictionary.md and submit any changes you wish.
+This resource will be used as an ongoing list of vocabulary words. Students can add to it, both words and definitions. Go ahead and modify voyageurDictionary.md and submit any changes you wish.
 
